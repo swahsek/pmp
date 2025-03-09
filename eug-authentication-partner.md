@@ -1,3 +1,4 @@
+<!--
 # User Guide
 
 
@@ -125,6 +126,10 @@ When a Partner have chosen a 'Policy Group' and the 'Policy' an approval request
 ![image](images/pms_approve_policy_3.png) " alt=""><figcaption></figcaption></figure>
 
 ![image](images/pms_approve_policy_4.png) " alt=""><figcaption></figcaption></figure>
+
+-->
+
+
 
 ## Authentication Partner Workflow
 
